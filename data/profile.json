@@ -55,15 +55,15 @@
   "currentFocus": {
     "title": "Текущий фокус",
     "items": [
-      "Backend-сервисы на Python/Django и Flask",
-      "LLM-интеграции в продуктовые процессы",
+      "Backend-сервисы на Python/Django и FastAPI",
+      "LLM-интеграции в продуктовые процессы и open-source LLM через Ollama",
       "Telegram-боты, платежи и инфраструктура"
     ],
     "note": "Использую Codex, Claude Code, ChatGPT, Cursor и похожие AI-инструменты как усиление рабочего процесса: для прототипирования, анализа кода, рефакторинга и разработки."
   },
   "about": {
     "title": "Обо мне",
-    "text": "Я backend-разработчик с коммерческим опытом в Python/Django и AI-интеграциях. Работаю с LLM API, Telegram-ботами, PostgreSQL, Redis, Celery, Docker и внешними API. Есть опыт работы с Flask, Django-проектами, OpenCV и небольшими backend-сервисами. Умею быстро разбираться в задачах, поддерживать существующий код, исправлять баги и запускать MVP.",
+    "text": "Я backend-разработчик с коммерческим опытом в Python/Django и AI-интеграциях. Работаю с LLM API, open-source LLM через Ollama, Telegram-ботами, PostgreSQL, Redis, Celery, Docker и внешними API. Есть опыт работы с FastAPI, Django-проектами, OpenCV и небольшими backend-сервисами. Умею быстро разбираться в задачах, поддерживать существующий код, исправлять баги и запускать MVP.",
     "facts": [
       {
         "value": "1 год",

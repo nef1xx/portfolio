@@ -3,7 +3,7 @@
     "group": "Backend",
     "items": [
       "Python",
-      "Flask",
+      "FastAPI",
       "Django",
       "REST API",
       "Auth",
@@ -24,6 +24,8 @@
     "group": "AI",
     "items": [
       "LLM API",
+      "Ollama",
+      "open-source LLM",
       "prompt engineering",
       "AI integrations",
       "LLM orchestration"

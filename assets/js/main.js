@@ -275,7 +275,7 @@
 
     section.innerHTML = `
       <div class="container">
-        ${sectionHead("Проекты", "Избранные работы", "Коммерческий backend, развивающийся Telegram-продукт и небольшие Flask/Django-проекты.")}
+        ${sectionHead("Проекты", "Избранные работы", "Коммерческий backend, развивающийся Telegram-продукт и небольшие FastAPI/Django-проекты.")}
         <div class="projects-grid">${cards}</div>
       </div>
     `;

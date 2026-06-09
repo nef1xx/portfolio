@@ -51,6 +51,7 @@
     "highlights": [
       "Разработка Telegram-бота на aiogram",
       "Интеграция разных LLM API",
+      "Опыт работы с open-source LLM через Ollama",
       "Квоты и лимиты использования",
       "Премиум-доступ и платежи",
       "PostgreSQL и Redis для данных, cooldown и очередей",
@@ -66,13 +67,13 @@
     ]
   },
   {
-    "title": "Flask, Django & OpenCV projects",
+    "title": "FastAPI, Django & OpenCV projects",
     "type": "Небольшие backend-проекты / практика",
     "layout": "compact",
-    "description": "Есть опыт работы с Flask и несколькими небольшими проектами на Django: авторизация, формы, шаблоны, PostgreSQL, генерация и обработка изображений с использованием OpenCV и другие прикладные задачи.",
+    "description": "Есть опыт работы с FastAPI и несколькими небольшими проектами на Django: авторизация, формы, шаблоны, PostgreSQL, генерация и обработка изображений с использованием OpenCV и другие прикладные задачи.",
     "stack": [
       "Python",
-      "Flask",
+      "FastAPI",
       "Django",
       "PostgreSQL",
       "HTML",
@@ -80,7 +81,7 @@
       "OpenCV"
     ],
     "highlights": [
-      "Flask-сервисы и небольшие API",
+      "FastAPI-сервисы и небольшие API",
       "Django-проекты с формами и шаблонами",
       "Генерация и обработка изображений через OpenCV"
     ]
