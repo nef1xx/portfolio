@@ -1,0 +1,88 @@
+[
+  {
+    "title": "RevYou",
+    "type": "Коммерческий проект / рабочий опыт",
+    "layout": "primary",
+    "description": "Работаю над backend и AI-функциональностью сервиса RevYou. Проект связан с анализом рабочих процессов и активности сотрудников с использованием данных из GitHub, Atlassian Jira и Confluence.",
+    "stack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "AWS",
+      "GitHub API",
+      "Jira API",
+      "Confluence API",
+      "LLM API",
+      "Celery",
+      "Docker"
+    ],
+    "highlights": [
+      "Коммерческий опыт около 1 года",
+      "Интеграция GitHub API и Atlassian API",
+      "LLM-оркестрация для анализа данных",
+      "Работа с Redis и backend-инфраструктурой",
+      "Поддержка и развитие существующего проекта"
+    ],
+    "links": [
+      {
+        "label": "Сайт RevYou",
+        "href": "https://revyou.cloud/",
+        "variant": "secondary"
+      }
+    ]
+  },
+  {
+    "title": "Telegram LLM Bot",
+    "type": "Собственный pet-проект / продукт",
+    "layout": "secondary",
+    "description": "@yogurti_bot — собственный коммерческий продукт, который развивается. Telegram-бот с LLM-интеграцией для групп и личных сообщений: AI-ответы, команды, лимиты, премиум-доступ, платежи, аналитика, админ-команды и деплой на Linux-сервер.",
+    "stack": [
+      "Python",
+      "aiogram",
+      "PostgreSQL",
+      "Redis",
+      "LLM API",
+      "Docker",
+      "systemd",
+      "payments",
+      "Linux"
+    ],
+    "highlights": [
+      "Разработка Telegram-бота на aiogram",
+      "Интеграция разных LLM API",
+      "Квоты и лимиты использования",
+      "Премиум-доступ и платежи",
+      "PostgreSQL и Redis для данных, cooldown и очередей",
+      "Опыт разработки других Telegram-ботов для записи, заявок и сервисных сценариев",
+      "Опыт создания Telegram WebApp-приложений"
+    ],
+    "links": [
+      {
+        "label": "Попробовать @yogurti_bot",
+        "href": "https://t.me/yogurti_bot",
+        "variant": "accent"
+      }
+    ]
+  },
+  {
+    "title": "Flask, Django & OpenCV projects",
+    "type": "Небольшие backend-проекты / практика",
+    "layout": "compact",
+    "description": "Есть опыт работы с Flask и несколькими небольшими проектами на Django: авторизация, формы, шаблоны, PostgreSQL, генерация и обработка изображений с использованием OpenCV и другие прикладные задачи.",
+    "stack": [
+      "Python",
+      "Flask",
+      "Django",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "OpenCV"
+    ],
+    "highlights": [
+      "Flask-сервисы и небольшие API",
+      "Django-проекты с формами и шаблонами",
+      "Генерация и обработка изображений через OpenCV"
+    ]
+  }
+]

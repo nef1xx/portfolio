@@ -1,0 +1,27 @@
+[
+  {
+    "company": "RevYou",
+    "role": "Python Backend / AI Developer",
+    "period": "около 1 года",
+    "description": "Развиваю backend и AI-функциональность сервиса, связанного с анализом рабочих процессов и активности сотрудников на основе данных из GitHub, Atlassian Jira и Confluence.",
+    "responsibilities": [
+      "Интеграция внешних API и обработка данных",
+      "Разработка backend-логики на Python/Django",
+      "Работа с Redis, Celery, PostgreSQL и AWS",
+      "LLM-оркестрация для анализа данных",
+      "Поддержка, отладка и развитие существующего кода"
+    ],
+    "stack": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery",
+      "Docker",
+      "AWS",
+      "GitHub API",
+      "Atlassian API",
+      "LLM API"
+    ]
+  }
+]

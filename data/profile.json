@@ -1,0 +1,119 @@
+{
+  "brand": "Резюме",
+  "name": "Денис",
+  "fullName": "Мокшин Денис Игоревич",
+  "role": "Python Backend / AI Developer",
+  "navigation": [
+    {
+      "label": "Обо мне",
+      "href": "#about"
+    },
+    {
+      "label": "Опыт",
+      "href": "#experience"
+    },
+    {
+      "label": "Проекты",
+      "href": "#projects"
+    },
+    {
+      "label": "Навыки",
+      "href": "#skills"
+    },
+    {
+      "label": "Контакты",
+      "href": "#contacts"
+    }
+  ],
+  "hero": {
+    "title": "Денис",
+    "subtitle": "Python Backend / AI Developer",
+    "description": "Разрабатываю backend-сервисы, Telegram-ботов и AI-интеграции. Быстро собираю MVP и довожу проекты до рабочего состояния.",
+    "actions": [
+      {
+        "label": "Проекты",
+        "href": "#projects",
+        "variant": "primary"
+      },
+      {
+        "label": "Попробовать бота",
+        "href": "https://t.me/yogurti_bot",
+        "variant": "accent"
+      },
+      {
+        "label": "Контакты",
+        "href": "#contacts",
+        "variant": "secondary"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/nef1xx",
+        "variant": "ghost"
+      }
+    ]
+  },
+  "currentFocus": {
+    "title": "Текущий фокус",
+    "items": [
+      "Backend-сервисы на Python/Django и Flask",
+      "LLM-интеграции в продуктовые процессы",
+      "Telegram-боты, платежи и инфраструктура"
+    ],
+    "note": "Использую Codex, Claude Code, ChatGPT, Cursor и похожие AI-инструменты как усиление рабочего процесса: для прототипирования, анализа кода, рефакторинга и разработки."
+  },
+  "about": {
+    "title": "Обо мне",
+    "text": "Я backend-разработчик с коммерческим опытом в Python/Django и AI-интеграциях. Работаю с LLM API, Telegram-ботами, PostgreSQL, Redis, Celery, Docker и внешними API. Есть опыт работы с Flask, Django-проектами, OpenCV и небольшими backend-сервисами. Умею быстро разбираться в задачах, поддерживать существующий код, исправлять баги и запускать MVP.",
+    "facts": [
+      {
+        "value": "1 год",
+        "label": "коммерческого опыта"
+      },
+      {
+        "value": "740",
+        "label": "contributions в GitHub за 2025"
+      },
+      {
+        "value": "222",
+        "label": "contributions в GitHub за 2026"
+      }
+    ],
+    "githubStats": [
+      {
+        "year": "2025",
+        "value": "740",
+        "label": "contributions",
+        "image": "assets/images/github-contributions-2025.jpg"
+      },
+      {
+        "year": "2026",
+        "value": "222",
+        "label": "contributions",
+        "image": "assets/images/github-contributions-2026.jpg"
+      }
+    ]
+  },
+  "contacts": {
+    "title": "Контакты",
+    "description": "Готов обсудить backend-задачи, AI-интеграции, Telegram-ботов и поддержку существующих Python-проектов.",
+    "links": [
+      {
+        "label": "Telegram",
+        "href": "https://t.me/nef1xzz"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:Gutgamegut@yandex.ru"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/nef1xx"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/denis-mokshin-0a76a8384/"
+      }
+    ]
+  },
+  "footer": "Мокшин Денис Игоревич. Python Backend / AI Developer."
+}

@@ -1,0 +1,16 @@
+# Local OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local QA / temporary output
+qa-output/
+tmp/
+*.log
+
+# Dependencies and build artifacts, if added later
+node_modules/
+dist/
+build/

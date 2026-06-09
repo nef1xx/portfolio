@@ -1,0 +1,56 @@
+[
+  {
+    "group": "Backend",
+    "items": [
+      "Python",
+      "Flask",
+      "Django",
+      "REST API",
+      "Auth",
+      "Celery"
+    ]
+  },
+  {
+    "group": "Databases & Infrastructure",
+    "items": [
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "AWS",
+      "Linux deploy"
+    ]
+  },
+  {
+    "group": "AI",
+    "items": [
+      "LLM API",
+      "prompt engineering",
+      "AI integrations",
+      "LLM orchestration"
+    ]
+  },
+  {
+    "group": "Integrations",
+    "items": [
+      "GitHub API",
+      "Jira API",
+      "Confluence API",
+      "Telegram WebApp",
+      "payments"
+    ]
+  },
+  {
+    "group": "Workflow",
+    "items": [
+      "Git",
+      "GitHub",
+      "debugging",
+      "refactoring",
+      "MVP development",
+      "Codex",
+      "Claude Code",
+      "ChatGPT",
+      "Cursor"
+    ]
+  }
+]
